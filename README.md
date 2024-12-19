@@ -11,7 +11,6 @@ RevShellRelay es un script en Python diseñado para manejar comunicaciones entre
 - Librerías estándar de Python: `socket`, `threading`, `argparse`, `sys`, `termios`, `tty`
 
 ## Instalación
-1. Clona este repositorio:
    ```bash
    git clone https://github.com/vpanal/revshellrelay.git
    cd revshellrelay
